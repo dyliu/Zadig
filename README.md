@@ -5,7 +5,7 @@
 <span align="left">
 
 [![Zadig CI](https://os.koderover.com/api/collie/api/badge?pipelineName=zadig/zadig-ci&source=github&repoFullName=koderover/zadig&branch=main&eventType=push)](https://os.koderover.com/v1/projects/detail/zadig/pipelines/freestyle/home/zadig-ci/608824fef341de000137317d?rightbar=step)
-[![license](https://img.shields.io/github/license/koderover/Zadig)](LICENSE)
+[![LICENSE](https://img.shields.io/github/license/koderover/zadig.svg)](https://github.com/koderover/zadig/blob/main/LICENSE)
 ![GitHub all releases](https://img.shields.io/github/downloads/koderover/Zadig/total)
 
 </span>
