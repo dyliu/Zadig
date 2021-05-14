@@ -4,8 +4,9 @@
 
 <span align="left">
 
-![Travis (.com)](https://img.shields.io/travis/com/koderover/Zadig)
-[![license](https://img.shields.io/github/license/koderover/Zadig)](LICENSE)
+[![Zadig CI](https://os.koderover.com/api/collie/api/badge?pipelineName=zadig/zadig-ci&source=github&repoFullName=koderover/zadig&branch=main&eventType=push)](https://os.koderover.com/v1/projects/detail/zadig/pipelines/freestyle/home/zadig-ci/608824fef341de000137317d?rightbar=step)
+[![LICENSE](https://img.shields.io/github/license/koderover/zadig.svg)](https://github.com/koderover/zadig/blob/main/LICENSE)
+[![Language](https://img.shields.io/badge/Language-Go-blue.svg)](https://golang.org/)
 ![GitHub all releases](https://img.shields.io/github/downloads/koderover/Zadig/total)
 
 </span>
